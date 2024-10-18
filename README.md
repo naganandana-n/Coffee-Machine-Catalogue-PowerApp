@@ -44,9 +44,9 @@ This repository contains the **Coffee Machine Catalogue PowerApp**, designed to 
 1.  **Home Screen:**
 
 -  A gallery view of all available coffee machines, allowing users to browse through the options.
-  <img src="https://github.com/naganandana-n/Reentrancy-Attack/blob/main/images/Bank%20Balance.png">
+  <img src="https://github.com/naganandana-n/Coffee-Machine-Catalogue-PowerApp/blob/main/images/HomePage.png">
 
 2.  **Comparison Screen:**
 
 -  A screen that allows users to select multiple coffee machines and compare their detailed specifications side by side.
-  <img src="https://github.com/naganandana-n/Reentrancy-Attack/blob/main/images/Bank%20Balance.png">
+  <img src="https://github.com/naganandana-n/Coffee-Machine-Catalogue-PowerApp/blob/main/images/ComparePage.png">
