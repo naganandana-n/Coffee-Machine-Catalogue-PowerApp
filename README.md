@@ -39,7 +39,7 @@ This repository contains the **Coffee Machine Catalogue PowerApp**, designed to 
 -  Once the app is connected to the data source, you can run it by clicking on **Play** in PowerApps Studio.
 -  Browse coffee machines, view details, and compare machines side by side.
 
-**App Screens**
+## App Screens
 
 1.  **Home Screen:**
 
