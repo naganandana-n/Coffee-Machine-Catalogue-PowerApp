@@ -7,7 +7,6 @@ This repository contains the **Coffee Machine Catalogue PowerApp**, designed to 
 <img src = "https://github.com/naganandana-n/Coffee-Machine-Catalogue-PowerApp/blob/main/images/AppUI.gif">
 </p>
 <br>
-
 ## Features
 
 - **Browse Coffee Machines:** Users can view a gallery of available coffee machines, providing an overview of machine types and key specifications.
