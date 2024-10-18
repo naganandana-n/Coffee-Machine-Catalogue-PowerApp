@@ -56,3 +56,6 @@ This repository contains the **Coffee Machine Catalogue PowerApp**, designed to 
 
 -  A screen that allows users to select multiple coffee machines and compare their detailed specifications side by side.
   <img src="https://github.com/naganandana-n/Coffee-Machine-Catalogue-PowerApp/blob/main/images/ComparePage.png">
+
+## Note:
+This project was made as part of a workshop on **PowerApps and PowerAutomate**, hosted by IntelPeek.
