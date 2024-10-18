@@ -5,6 +5,7 @@ This repository contains the **Coffee Machine Catalogue PowerApp**, designed to 
 
 <p align="center">
 <img src = "https://github.com/naganandana-n/Coffee-Machine-Catalogue-PowerApp/blob/main/images/AppUI.gif">
+<br>
 </p>
 
 ## Features
