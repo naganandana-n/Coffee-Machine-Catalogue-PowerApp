@@ -26,21 +26,17 @@ This repository contains the **Coffee Machine Catalogue PowerApp**, designed to 
 2.  **Import the PowerApp:**
 
 -  Open PowerApps Studio and sign in.
-
 -  On the left-hand menu, click on **Apps** and then **Import canvas app**.
-
 -  Upload the .msapp file from this repository and follow the on-screen instructions to import the app.
 
 3.  **Connect the Data Source:**
 
 -  After importing the app, connect it to your data source (e.g., Excel, SharePoint) for storing coffee machine data.
-
 -  You can also use sample static data to test the app without connecting to an external source.
 
 4.  **Run the App:**
 
 -  Once the app is connected to the data source, you can run it by clicking on **Play** in PowerApps Studio.
-
 -  Browse coffee machines, view details, and compare machines side by side.
 
 **App Screens**
@@ -48,7 +44,9 @@ This repository contains the **Coffee Machine Catalogue PowerApp**, designed to 
 1.  **Home Screen:**
 
 -  A gallery view of all available coffee machines, allowing users to browse through the options.
+  <img src="https://github.com/naganandana-n/Reentrancy-Attack/blob/main/images/Bank%20Balance.png">
 
 2.  **Comparison Screen:**
 
 -  A screen that allows users to select multiple coffee machines and compare their detailed specifications side by side.
+  <img src="https://github.com/naganandana-n/Reentrancy-Attack/blob/main/images/Bank%20Balance.png">
